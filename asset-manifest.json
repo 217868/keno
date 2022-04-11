@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/keno/static/css/main.073c9b0a.css",
+    "main.js": "/keno/static/js/main.ba57cca9.js",
+    "static/js/787.03193a3d.chunk.js": "/keno/static/js/787.03193a3d.chunk.js",
+    "static/media/logo.svg": "/keno/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/keno/index.html",
+    "main.073c9b0a.css.map": "/keno/static/css/main.073c9b0a.css.map",
+    "main.ba57cca9.js.map": "/keno/static/js/main.ba57cca9.js.map",
+    "787.03193a3d.chunk.js.map": "/keno/static/js/787.03193a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba57cca9.js"
+  ]
+}
