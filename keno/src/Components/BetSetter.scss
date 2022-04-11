@@ -1,0 +1,43 @@
+.bet_setter {
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    .quick_bet_section button {
+        margin-left: 1px;
+        margin-right: 1px;
+        height: 50px;
+        width: 50px;
+        border: none;
+
+        font-weight: bolder;
+        color: white;
+        background-color: #e3bb35;
+
+        cursor: pointer;
+
+        transition: background-color .1s ease-in-out;
+
+        &:hover {
+            background-color: #c29e29;
+        }
+
+
+    }
+
+    .bet_input {
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+        width: 250px;
+        height: 30px;
+
+        border-color: #e3bb35;
+        border-radius: 4px;
+        text-align: center;
+        color: #31285d;
+
+        font-weight: bolder;
+        font-size: 20px;
+    }
+}
